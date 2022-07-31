@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Fate",
+			"soylent",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"malediction",
+			"curse-happy",
+			[
+				52,
+				59,
+				113
+			]
+		],
+		[
+			"digitalized",
+			"xterion",
+			[
+				0,
+				12,
+				96
+			]
+		],
+		[
+			"forestall-desire",
+			"tails",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"burning",
+			"faker",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
